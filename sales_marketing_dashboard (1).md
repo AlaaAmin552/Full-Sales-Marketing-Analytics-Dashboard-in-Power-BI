@@ -103,7 +103,7 @@ This allows leadership to pivot quickly, allocate resources more intelligently, 
 * Campaign intensity per region
 * Localized ROI trends
 
-(📷 Images go here)
+<img width="1161" height="656" alt="Image" src="https://github.com/user-attachments/assets/5d5883f8-6e55-4f04-9443-f56e6a022bd8" />
 
 ---
 
